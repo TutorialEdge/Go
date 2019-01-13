@@ -27,7 +27,7 @@ func main() {
 			Usage: "Looks Up the NameServers for a Particular Host",
 			Flags: myFlags,
 			Action: func(c *cli.Context) error {
-				ns, err := net.LookupNS(c.String("url"))
+				ns, err := net.LookupNS(c.String("host"))
 				if err != nil {
 					return err
 				}
