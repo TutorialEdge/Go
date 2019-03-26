@@ -3,7 +3,7 @@ Go Tutorial Repositories
 
 | Tutorial Title  | TutorialEdge | Github | Build Status |
 | ------------- | ------------- | ------------------ | ------------------ |
-| 01 - Getting Started with Go  | [Getting Started with Go](https://tutorialedge.net/golang/getting-started-with-go//)  | N/A | N/A | 
+| 01 - Getting Started with Go  | [Getting Started with Go](https://tutorialedge.net/golang/getting-started-with-go//)  | [TutorialEdge/getting-started-with-go](https://github.com/TutorialEdge/getting-started-with-go) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/getting-started-with-go.svg?branch=master) | 
 | 02 - Go Basic Types Tutorial  | [Go Basic Types Tutorial](https://tutorialedge.net/golang/go-basic-types-tutorial/)  | N/A | N/A | 
 | 03 - Go Composite Types Tutorial  | [Go Complex Types Tutorial](https://tutorialedge.net/golang/go-complex-types-tutorial/)  | N/A | N/A | 
 | 04 - Go Functions Tutorial  | [Go Functions Tutorial](https://tutorialedge.net/golang/go-functions-tutorial/)  | N/A | N/A | 
