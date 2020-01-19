@@ -8,7 +8,7 @@
 
 # TutorialEdge.net Go Tutorials  👩‍💻👨‍💻
 
-Welcome to the TutorialEdge codebase! 
+Welcome to the TutorialEdge Go Repository! 
 
 The goal of this repo is to be able to keep track of all the Go tutorials and their respective github repo locations and build statuses. These will be updated and run with the latest versions of Go as and when they are released. 
 
