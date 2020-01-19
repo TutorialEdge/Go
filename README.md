@@ -35,17 +35,23 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 
 ## Intermediate Tutorials
 
+| Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
+| ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
 | 02 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Advanced Tutorials
 
+| Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
+| ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
 | 02 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
 | 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Data Formats
 
+| Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
+| ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Go JSON Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-json-tutorial/)  | [TutorialEdge/Go-JSON-Tutorial](https://github.com/TutorialEdge/go-json-tutorial) | ![Travis Build Status](https://camo.githubusercontent.com/5a7ac1c842aa9187898ff84e3b980ca0d7fedf11/68747470733a2f2f7472617669732d63692e6f72672f5475746f7269616c456467652f676f2d6a736f6e2d7475746f7269616c2e7376673f6272616e63683d6d6173746572) |  11th April, 2019 |
 | 02 - Go XML Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/parsing-xml-with-golang/)  | [TutorialEdge/go-xml-tutorial](https://github.com/TutorialEdge/go-xml-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/go-xml-tutorial.svg?branch=master) |  11th May, 2019 |
 | 03 - Go Protocol Buffer Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
