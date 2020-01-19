@@ -19,6 +19,7 @@ The goal of this repo is to be able to keep track of all the tutorials and their
 | 08 - The Go Init Function  | [Read Tutorial](https://tutorialedge.net/golang/the-go-init-function/)  | N/A | N/A |  N/A |
 | 09 - An Introduction To Testing  | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | ![Travis-CI](https://travis-ci.org/TutorialEdge/an-intro-to-testing-in-go.svg?branch=master) | 11th April, 2019  |
 | 10 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
+| 11 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 21st Jan, 2020  |
 
 
 ## Concurrency Tutorials
