@@ -23,6 +23,8 @@ The goal of this repo is to be able to keep track of all the tutorials and their
 | 12 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
 | 13 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 | 14 - Creating a REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/) | [TutorialEdge/create-rest-api-in-go-tutorial](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | N/A | 19th Jan, 2020  |
+| 15 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+
 
 
 
