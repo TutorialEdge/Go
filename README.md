@@ -17,6 +17,7 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 * [Beginners Tutorials](#beginners-tutorials)
 * [Intermediate Tutorials](#intermediate-tutorials)
 * [Advanced Tutorials](#advanced-tutorials)
+* [DevOps](#devops)
 * [Projects](#projects)
 * [Data Formats](#data-formats)
 * [Concurrency Tutorials](#concurrency-tutorials)
@@ -55,9 +56,20 @@ These are advanced tutorials designed to help introduce more concepts such as ex
 | 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
 | 02 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
 | 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
-| 04 - Go Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-docker-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-docker-tutorial) | N/A | 19th Jan, 2020  |
-| 05 - Go JWT Tutorial | [Read Tutorial](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-jwt-tutorial) | N/A | 19th Jan, 2020  |
-| 06 - Go OAuth2 Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-oauth2-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-oauth-tutorial) | N/A | 19th Jan, 2020  |
+| 04 - Go JWT Tutorial | [Read Tutorial](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-jwt-tutorial) | N/A | 19th Jan, 2020  |
+| 05 - Go OAuth2 Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-oauth2-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-oauth-tutorial) | N/A | 19th Jan, 2020  |
+
+## DevOps
+
+This section is devoted to tutorials primarily focused more on the developer operations aspect of Go development.
+
+| Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
+| ------------- | ------------- | ------------------ | ------------------ | ------------------ |
+| 01 - Go Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-docker-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-docker-tutorial) | N/A | 19th Jan, 2020  |
+| 02 - Building a CI Pipeline for Your Go Projects | [Read Tutorial](https://tutorialedge.net/golang/building-ci-cd-pipeline-go-projects/) | [elliotforbes/go-ci-pipeline-example](https://github.com/elliotforbes/go-ci-pipeline-example) | N/A | 19th Jan, 2020  |
+| 03 - Improving your Go Dev Workflow with Git Hooks | [Read Tutorial](https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/) | N/A | N/A | 19th Jan, 2020  |
+
+
 
 ## Projects
 
@@ -67,6 +79,11 @@ This section contains more complete Go applications and series that help you to 
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Go WebAssembly Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)  | [elliotforbes/go-webassembly-framework](https://github.com/elliotforbes/go-webassembly-framework) | N/A |  11th April, 2019 |
 | 02 - Building a Chat Application in Go and React.js | [Read Tutorial](https://tutorialedge.net/projects/chat-system-in-go-and-react/)  | [TutorialEdge/realtime-chat-go-react](https://github.com/TutorialEdge/realtime-chat-go-react) | N/A |  11th April, 2019 |
+| 03 - Building a Real-time YouTube Subscriber Monitor in Go | [Read Tutorial](
+https://tutorialedge.net/golang/building-realtime-youtube-sub-monitor-go/)  | N/A | N/A |  11th April, 2019 |
+
+
+https://tutorialedge.net/golang/building-realtime-youtube-sub-monitor-go/
 
 ## Data Formats
 
