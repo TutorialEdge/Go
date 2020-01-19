@@ -54,6 +54,8 @@ These are advanced tutorials designed to help introduce more concepts such as ex
 | 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
 | 02 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
 | 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+| 04 - Go Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-docker-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-docker-tutorial) | N/A | 19th Jan, 2020  |
+
 
 ## Data Formats
 
