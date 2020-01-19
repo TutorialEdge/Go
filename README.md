@@ -17,9 +17,10 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 * [Beginners Tutorials](#beginners-tutorials)
 * [Intermediate Tutorials](#intermediate-tutorials)
 * [Advanced Tutorials](#advanced-tutorials)
-* [Concurrency Tutorials](#concurrency-tutorials)
 * [Projects](#projects)
 * [Data Formats](#data-formats)
+* [Concurrency Tutorials](#concurrency-tutorials)
+* [Challenges](#challenges)
 
 ## Beginners Tutorials
 
@@ -58,10 +59,14 @@ These are advanced tutorials designed to help introduce more concepts such as ex
 | 05 - Go JWT Tutorial | [Read Tutorial](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-jwt-tutorial) | N/A | 19th Jan, 2020  |
 | 06 - Go OAuth2 Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-oauth2-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-oauth-tutorial) | N/A | 19th Jan, 2020  |
 
+## Projects
 
+This section contains more complete Go applications and series that help you to see the bigger picture.
 
-https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/
-
+| Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
+| ------------- | ------------- | ------------------ | ------------------ | ------------------ |
+| 01 - Go WebAssembly Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)  | [elliotforbes/go-webassembly-framework](https://github.com/elliotforbes/go-webassembly-framework) | N/A |  11th April, 2019 |
+| 02 - Building a Chat Application in Go and React.js | [Read Tutorial](https://tutorialedge.net/projects/chat-system-in-go-and-react/)  | [TutorialEdge/realtime-chat-go-react](https://github.com/TutorialEdge/realtime-chat-go-react) | N/A |  11th April, 2019 |
 
 ## Data Formats
 
@@ -83,3 +88,14 @@ These are tutorials focused on teaching concurrency concepts to people looking t
 | 02 - Go Mutex Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-mutex-tutorial/)  | N/A | M/A | N/A |
 | 03 - Go Channels Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-channels-tutorial/)  | N/A | M/A | N/A |
 | 04 - Go WaitGroup Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-waitgroup-tutorial/)  | N/A | M/A | N/A |
+
+## Challenges
+
+This section contains a list of challenges that you can attempt in order to explore the wonderful world of Go programming:
+
+1. [Challenge 01 - Getting Started with Go](https://tutorialedge.net/challenges/go/challenge-01/)
+2. [Challenge 02 - Creating a Simple HTTP Server](https://tutorialedge.net/challenges/go/challenge-02/)
+3. [Challenge 03 - Improving your HTTP Server in Go](https://tutorialedge.net/challenges/go/challenge-03/)
+4. [Challenge 04 - Goroutines and WaitGroups](https://tutorialedge.net/challenges/go/challenge-04/)
+5. [Challenge 05 - External Dependencies and Production Logging](https://tutorialedge.net/challenges/go/challenge-05/)
+6. [Challenge 06 - Pointers and Linked Lists](https://tutorialedge.net/challenges/go/challenge-06/)
