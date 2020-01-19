@@ -23,6 +23,8 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 
 ## Beginners Tutorials
 
+These tutorials are aimed at newcomers to the language looking to improve their fundamental understanding of how things work in Go!
+
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Getting Started with Go  | [Read Tutorial](https://tutorialedge.net/golang/getting-started-with-go//)  | [TutorialEdge/getting-started-with-go](https://github.com/TutorialEdge/getting-started-with-go) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/getting-started-with-go.svg?branch=master) | N/A |
@@ -35,12 +37,17 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 
 ## Intermediate Tutorials
 
+These are for the more experienced Go developer looking to take their Go application development to the next level and improve on existing knowledge of the language.
+
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
 | 02 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+| 03 - Project Structure Best Practices | [Read Tutorial](https://tutorialedge.net/golang/go-project-structure-best-practices/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Advanced Tutorials
+
+These are advanced tutorials designed to help introduce more concepts such as exposing WebSocket APIs or REST APIs and communicating with databases.
 
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
@@ -50,6 +57,8 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 
 ## Data Formats
 
+Handy tutorials which are good references for when you want to work with data formats such as JSON, XML or Protocol Buffers.
+
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Go JSON Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-json-tutorial/)  | [TutorialEdge/Go-JSON-Tutorial](https://github.com/TutorialEdge/go-json-tutorial) | ![Travis Build Status](https://camo.githubusercontent.com/5a7ac1c842aa9187898ff84e3b980ca0d7fedf11/68747470733a2f2f7472617669732d63692e6f72672f5475746f7269616c456467652f676f2d6a736f6e2d7475746f7269616c2e7376673f6272616e63683d6d6173746572) |  11th April, 2019 |
@@ -57,6 +66,8 @@ The goal of this repo is to be able to keep track of all the Go tutorials and th
 | 03 - Go Protocol Buffer Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Concurrency Tutorials
+
+These are tutorials focused on teaching concurrency concepts to people looking to improve the performance of their Go applications.
 
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
