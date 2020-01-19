@@ -67,8 +67,7 @@ This section is devoted to tutorials primarily focused more on the developer ope
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - Go Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-docker-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-docker-tutorial) | N/A | 19th Jan, 2020  |
-| 02 - Go Multi-Stage Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-multi-stage-docker-tutorial/
-) | N/A | N/A | 19th Jan, 2020  |
+| 02 - Go Multi-Stage Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-multi-stage-docker-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 | 02 - Building a CI Pipeline for Your Go Projects | [Read Tutorial](https://tutorialedge.net/golang/building-ci-cd-pipeline-go-projects/) | [elliotforbes/go-ci-pipeline-example](https://github.com/elliotforbes/go-ci-pipeline-example) | N/A | 19th Jan, 2020  |
 | 03 - Improving your Go Dev Workflow with Git Hooks | [Read Tutorial](https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/) | N/A | N/A | 19th Jan, 2020  |
 | 04 - Working with Environment Variables in Go | [Read Tutorial](https://tutorialedge.net/golang/working-with-environment-variables-in-go/) | N/A | N/A | 19th Jan, 2020 |
