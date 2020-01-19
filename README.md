@@ -1,9 +1,25 @@
-Go Tutorial Repositories
-==========================
+<div align="center">
+  <br/>
+  <img alt="TutorialEdge" src="https://images.tutorialedge.net/images/logo.png" />
+  <h1>TutorialEdge</h1>
+  
+  <img src="https://travis-ci.org/elliotforbes/tutorialedge.net.svg?branch=master" alt="build status" />  
+</div>
 
-I've maintained [TutorialEdge.net](https://tutorialedge.net) for roughly 3 years now and one of the main challenges I face is keeping the tutorials up to date and relevant. This is especially prevalent in other languages and frameworks that don't always keep backwards compatibility in mind.
+# TutorialEdge.net Go Tutorials  👩‍💻👨‍💻
 
-The goal of this repo is to be able to keep track of all the tutorials and their respective github repo locations and build statuses. These will be updated and run with the latest versions of Go as and when they are released. 
+Welcome to the TutorialEdge codebase! 
+
+The goal of this repo is to be able to keep track of all the Go tutorials and their respective github repo locations and build statuses. These will be updated and run with the latest versions of Go as and when they are released. 
+
+## Table of Contents
+
+* [Beginners Tutorials](#beginners-tutorials)
+* [Intermediate Tutorials](#intermediate-tutorials)
+* [Advanced Tutorials](#advanced-tutorials)
+* [Concurrency Tutorials](#concurrency-tutorials)
+* [Projects](#projects)
+* [Data Formats](#data-formats)
 
 ## Beginners Tutorials
 
@@ -14,19 +30,25 @@ The goal of this repo is to be able to keep track of all the tutorials and their
 | 03 - Go Composite Types Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-complex-types-tutorial/)  | [TutorialEdge/go-complex-types-tutorial](https://github.com/TutorialEdge/go-complex-types-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-complex-types-tutorial.svg?branch=master) | N/A |
 | 04 - Go Functions Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-functions-tutorial/)  | [TutorialEdge/go-functions-tutorial](https://github.com/TutorialEdge/go-functions-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-functions-tutorial.svg?branch=master) | 27th March, 2019 | 
 | 05 - Go Interfaces Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-interfaces-tutorial/)  | [TutorialEdge/go-interfaces-tutorial](https://github.com/TutorialEdge/go-interfaces-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-interfaces-tutorial.svg?branch=master) | N/A | 
-| 06 - Go JSON Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-json-tutorial/)  | [TutorialEdge/Go-JSON-Tutorial](https://github.com/TutorialEdge/go-json-tutorial) | ![Travis Build Status](https://camo.githubusercontent.com/5a7ac1c842aa9187898ff84e3b980ca0d7fedf11/68747470733a2f2f7472617669732d63692e6f72672f5475746f7269616c456467652f676f2d6a736f6e2d7475746f7269616c2e7376673f6272616e63683d6d6173746572) |  11th April, 2019 |
-| 07 - Go XML Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/parsing-xml-with-golang/)  | [TutorialEdge/go-xml-tutorial](https://github.com/TutorialEdge/go-xml-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/go-xml-tutorial.svg?branch=master) |  11th May, 2019 |
-| 08 - The Go Init Function  | [Read Tutorial](https://tutorialedge.net/golang/the-go-init-function/)  | N/A | N/A |  N/A |
-| 09 - An Introduction To Testing  | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | ![Travis-CI](https://travis-ci.org/TutorialEdge/an-intro-to-testing-in-go.svg?branch=master) | 11th April, 2019  |
-| 10 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
-| 11 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
-| 12 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
-| 13 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
-| 14 - Creating a REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/) | [TutorialEdge/create-rest-api-in-go-tutorial](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | N/A | 19th Jan, 2020  |
-| 15 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+| 06 - The Go Init Function  | [Read Tutorial](https://tutorialedge.net/golang/the-go-init-function/)  | N/A | N/A |  N/A |
 
 
+## Intermediate Tutorials
 
+| 01 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
+| 02 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+
+## Advanced Tutorials
+
+| 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
+| 02 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
+| 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
+
+## Data Formats
+
+| 01 - Go JSON Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-json-tutorial/)  | [TutorialEdge/Go-JSON-Tutorial](https://github.com/TutorialEdge/go-json-tutorial) | ![Travis Build Status](https://camo.githubusercontent.com/5a7ac1c842aa9187898ff84e3b980ca0d7fedf11/68747470733a2f2f7472617669732d63692e6f72672f5475746f7269616c456467652f676f2d6a736f6e2d7475746f7269616c2e7376673f6272616e63683d6d6173746572) |  11th April, 2019 |
+| 02 - Go XML Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/parsing-xml-with-golang/)  | [TutorialEdge/go-xml-tutorial](https://github.com/TutorialEdge/go-xml-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/go-xml-tutorial.svg?branch=master) |  11th May, 2019 |
+| 03 - Go Protocol Buffer Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Concurrency Tutorials
 
