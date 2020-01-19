@@ -45,7 +45,8 @@ These are for the more experienced Go developer looking to take their Go applica
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
 | 01 - An Intro to Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/intro-testing-in-go/)  | [TutorialEdge/an-intro-to-testing-in-go](https://github.com/TutorialEdge/an-intro-to-testing-in-go) | N/A | 19th Jan, 2020  |
 | 02 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
-| 03 - Project Structure Best Practices | [Read Tutorial](https://tutorialedge.net/golang/go-project-structure-best-practices/) | N/A | N/A | 19th Jan, 2020  |
+| 03 - Improving your Go Tests with Mocks and Testify  | [Read Tutorial](https://tutorialedge.net/golang/improving-your-tests-with-testify-go/) | N/A | N/A | 19th Jan, 2020  |
+| 04 - Project Structure Best Practices | [Read Tutorial](https://tutorialedge.net/golang/go-project-structure-best-practices/) | N/A | N/A | 19th Jan, 2020  |
 
 ## Advanced Tutorials
 
@@ -68,8 +69,8 @@ This section is devoted to tutorials primarily focused more on the developer ope
 | 01 - Go Docker Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-docker-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-docker-tutorial) | N/A | 19th Jan, 2020  |
 | 02 - Building a CI Pipeline for Your Go Projects | [Read Tutorial](https://tutorialedge.net/golang/building-ci-cd-pipeline-go-projects/) | [elliotforbes/go-ci-pipeline-example](https://github.com/elliotforbes/go-ci-pipeline-example) | N/A | 19th Jan, 2020  |
 | 03 - Improving your Go Dev Workflow with Git Hooks | [Read Tutorial](https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/) | N/A | N/A | 19th Jan, 2020  |
-
-
+| 04 - Working with Environment Variables in Go | [Read Tutorial](https://tutorialedge.net/golang/working-with-environment-variables-in-go/) | N/A | N/A | 19th Jan, 2020 |
+| 05 - Makefiles for Go Developers | [Read Tutorial](https://tutorialedge.net/golang/makefiles-for-go-developers/) | N/A | N/A | 19th Jan, 2020  
 
 ## Projects
 
@@ -82,8 +83,6 @@ This section contains more complete Go applications and series that help you to 
 | 03 - Building a Real-time YouTube Subscriber Monitor in Go | [Read Tutorial](
 https://tutorialedge.net/golang/building-realtime-youtube-sub-monitor-go/)  | N/A | N/A |  11th April, 2019 |
 
-
-https://tutorialedge.net/golang/building-realtime-youtube-sub-monitor-go/
 
 ## Data Formats
 
