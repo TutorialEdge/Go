@@ -29,12 +29,15 @@ These tutorials are aimed at newcomers to the language looking to improve their 
 
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
-| 01 - Getting Started with Go  | [Read Tutorial](https://tutorialedge.net/golang/getting-started-with-go//)  | [TutorialEdge/getting-started-with-go](https://github.com/TutorialEdge/getting-started-with-go) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/getting-started-with-go.svg?branch=master) | N/A |
+| 01 - Getting Started with Go  | [Read Tutorial](https://tutorialedge.net/golang/getting-started-with-go/)  | [TutorialEdge/getting-started-with-go](https://github.com/TutorialEdge/getting-started-with-go) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/getting-started-with-go.svg?branch=master) | N/A |
 | 02 - Go Basic Types Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-basic-types-tutorial/)  | [TutorialEdge/go-basic-types-tutorial](https://github.com/TutorialEdge/go-basic-types-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-basic-types-tutorial.svg?branch=master) | N/A |
 | 03 - Go Composite Types Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-complex-types-tutorial/)  | [TutorialEdge/go-complex-types-tutorial](https://github.com/TutorialEdge/go-complex-types-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-complex-types-tutorial.svg?branch=master) | N/A |
 | 04 - Go Functions Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-functions-tutorial/)  | [TutorialEdge/go-functions-tutorial](https://github.com/TutorialEdge/go-functions-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-functions-tutorial.svg?branch=master) | 27th March, 2019 | 
 | 05 - Go Interfaces Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-interfaces-tutorial/)  | [TutorialEdge/go-interfaces-tutorial](https://github.com/TutorialEdge/go-interfaces-tutorial) | ![Travis-CI Status](https://travis-ci.org/TutorialEdge/go-interfaces-tutorial.svg?branch=master) | N/A | 
 | 06 - The Go Init Function  | [Read Tutorial](https://tutorialedge.net/golang/the-go-init-function/)  | N/A | N/A |  N/A |
+| 07 - Building a Web Server in Go  | [Read Tutorial](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/)  | N/A | N/A |  N/A |
+| 08 - Encryption and Decryption in Go using AES  | [Read Tutorial](https://tutorialedge.net/golang/go-encrypt-decrypt-aes-tutorial/)  | N/A | N/A |  N/A |
+
 
 
 ## Intermediate Tutorials
@@ -47,6 +50,7 @@ These are for the more experienced Go developer looking to take their Go applica
 | 02 - Advanced Testing in Go | [Read Tutorial](https://tutorialedge.net/golang/advanced-go-testing-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 | 03 - Improving your Go Tests with Mocks and Testify  | [Read Tutorial](https://tutorialedge.net/golang/improving-your-tests-with-testify-go/) | N/A | N/A | 19th Jan, 2020  |
 | 04 - Project Structure Best Practices | [Read Tutorial](https://tutorialedge.net/golang/go-project-structure-best-practices/) | N/A | N/A | 19th Jan, 2020  |
+| 05 - Building a Network CLI in Go  | [Read Tutorial](https://tutorialedge.net/golang/building-a-cli-in-go/)  | N/A | N/A |  N/A |
 
 ## Advanced Tutorials
 
