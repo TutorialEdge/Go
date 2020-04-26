@@ -86,6 +86,7 @@ This section contains more complete Go applications and series that help you to 
 | 01 - Go WebAssembly Tutorial  | [Read Tutorial](https://tutorialedge.net/golang/go-webassembly-tutorial/)  | [elliotforbes/go-webassembly-framework](https://github.com/elliotforbes/go-webassembly-framework) | N/A |  11th April, 2019 |
 | 02 - Building a Chat Application in Go and React.js | [Read Tutorial](https://tutorialedge.net/projects/chat-system-in-go-and-react/)  | [TutorialEdge/realtime-chat-go-react](https://github.com/TutorialEdge/realtime-chat-go-react) | N/A |  11th April, 2019 |
 | 03 - Building a Real-time YouTube Subscriber Monitor in Go | [Read Tutorial](https://tutorialedge.net/golang/building-realtime-youtube-sub-monitor-go/)  | N/A | N/A |  11th April, 2019 |
+| 04 - Building a REST API using GORM and Fiber | [Read Tutorial](https://tutorialedge.net/golang/basic-rest-api-go-fiber/) | [TutorialEdge/go-fiber-rest-api-tutorial](https://github.com/TutorialEdge/go-fiber-rest-api-tutorial) | N/A | 26th April, 2020 |
 
 
 ## Data Formats
