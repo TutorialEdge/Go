@@ -63,6 +63,7 @@ These are advanced tutorials designed to help introduce more concepts such as ex
 | 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 | 04 - Go JWT Tutorial | [Read Tutorial](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-jwt-tutorial) | N/A | 19th Jan, 2020  |
 | 05 - Go OAuth2 Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-oauth2-tutorial/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-oauth-tutorial) | N/A | 19th Jan, 2020  |
+| 06 - Go gRPC Beginners Tutorials | [Read Tutorial](https://tutorialedge.net/golang/go-grpc-beginners-tutorial/) | [TutorialEdge/go-grpc-tutorial](https://github.com/tutorialedge/go-grpc-tutorial) | N/A | 9th May, 2020 |
 
 ## DevOps
 
