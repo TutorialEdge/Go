@@ -113,11 +113,6 @@ These are tutorials focused on teaching concurrency concepts to people looking t
 
 ## Challenges
 
-This section contains a list of challenges that you can attempt in order to explore the wonderful world of Go programming:
+A series of Go challenges designed to test your Go skills! 😎
 
-1. [Challenge 01 - Getting Started with Go](https://tutorialedge.net/challenges/go/challenge-01/)
-2. [Challenge 02 - Creating a Simple HTTP Server](https://tutorialedge.net/challenges/go/challenge-02/)
-3. [Challenge 03 - Improving your HTTP Server in Go](https://tutorialedge.net/challenges/go/challenge-03/)
-4. [Challenge 04 - Goroutines and WaitGroups](https://tutorialedge.net/challenges/go/challenge-04/)
-5. [Challenge 05 - External Dependencies and Production Logging](https://tutorialedge.net/challenges/go/challenge-05/)
-6. [Challenge 06 - Pointers and Linked Lists](https://tutorialedge.net/challenges/go/challenge-06/)
+1. [TutorialEdge Go Challenges](https://tutorialedge.net/challenges/go/
