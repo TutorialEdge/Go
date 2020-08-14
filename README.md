@@ -58,7 +58,7 @@ These are advanced tutorials designed to help introduce more concepts such as ex
 
 | Tutorial Title  | TutorialEdge | Github | Build Status | Date Updated |
 | ------------- | ------------- | ------------------ | ------------------ | ------------------ |
-| 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websockets-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
+| 01 - Go Websockets Tutorial | [Read Tutorial](https://tutorialedge.net/golang/go-websocket-tutorial/)  | [TutorialEdge/go-websockets-tutorial](https://github.com/TutorialEdge/go-websockets-tutorial) | N/A | 19th Jan, 2020  |
 | 02 - Create REST API in Go | [Read Tutorial](https://tutorialedge.net/golang/creating-restful-api-with-golang/)  | [TutorialEdge/create-rest-api-in-go](https://github.com/TutorialEdge/create-rest-api-in-go-tutorial) | ![Travis-CI](https://travis-ci.org/TutorialEdge/create-rest-api-in-go-tutorial.svg?branch=master) | 11th May, 2019  |
 | 03 - Go MySQL Tutorial | [Read Tutorial](https://tutorialedge.net/golang/golang-mysql-tutorial/) | N/A | N/A | 19th Jan, 2020  |
 | 04 - Go JWT Tutorial | [Read Tutorial](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) | [TutorialEdge/go-docker-tutorial](https://github.com/TutorialEdge/go-jwt-tutorial) | N/A | 19th Jan, 2020  |
